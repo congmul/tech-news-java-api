@@ -7,7 +7,10 @@ import java.io.Serializable;
 import java.util.List;
 import java.util.Objects;
 
-// Class Level Annotation : Reason : To configure Object or Variable / Usage : @keyword ( Annotation Keyword )
+// Spring annotation - Reason : Spring annotations to the entity model classes, allowing Spring Data JPA to create the database and the database tables.
+// Usage : @keyword ( Annotation Keyword )
+
+// Class Level Annotation
 @Entity //@Entity marks this as a persistable object, so that the User class can map to a table.
 @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"}) //@JsonIgnoreProperties specifies properties that should be ignored when serializing this object to JSON.
                                                                 // The two arguments that follow the annotation are the properties to be ignored.
