@@ -1,10 +1,10 @@
 # tech-news-java-api
 
-![Userpage](assets/user.png) ![Searchpage](assets/search.png)
+![Userpage](readme-img/readme01.png) ![Searchpage](readme-img/readme02.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[See the deployment]()  
+[See the deployment](https://tech-news-java-api.herokuapp.com/)  
 [Explore the docs](https://github.com/congmul/tech-news-java-api)
 
 ---
@@ -25,7 +25,7 @@
 
 Run the following commands in your terminal
 
-    npm start
+    Run
 
 Navigate in the browser to
 
